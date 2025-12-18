@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "url": "https://cloud.189.cn/web/share?code=RzyqMrnaAbUv（访问码：x9ep）",
-  "notes": "1) 新增一键转写\n2) 修复打包后转写失败\n",
-  "publishedAt": "2025-12-17"
+  "version": "1.2.0",
+  "url": "https://cloud.189.cn/web/share?code=Qbyq2qvEfQfy（访问码：1kaa）",
+  "notes": "修复转写失败（添加模型会自动打包）",
+  "publishedAt": "2025-12-18  15：00"
 }
 
